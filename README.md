@@ -1,1 +1,5 @@
-# battleship
+# Battleship
+
+Goal is to create a downloadable .exe file to run battleship on windows desktops.
+
+# Tools
