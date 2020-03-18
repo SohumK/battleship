@@ -1,7 +1,10 @@
 # Battleship Overview
 
-Goal is to create a downloadable .exe file to run battleship on windows desktops.
+Code for running Battleship in console, includes two player mode and player vs AI mode with different difficulty levels for bots.
 
 # Tools
 - Java in Eclipse IDE
-- Java Swing Library for GUI
+
+# Planned Updates
+- Redesign to be used as a downloadable executable
+- Create a GUI
